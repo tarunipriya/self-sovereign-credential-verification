@@ -78,7 +78,7 @@ Recruiter → QR Scan → Fetch from Blockchain → Verification
 ---
 
 ## 📎 Links
-- GitHub Repository: (Add your link)  
+- GitHub Repository: 
 - MVP Link: Prototype under development  
 
 ---
